@@ -2,6 +2,8 @@
 
 This is a category of UIImage to calculate blank edge of an image.
 
+![example](example.png)
+
 ## How to use
 
 1. Copy *UIImage+BlankEdge.h* and *UIImage+BlankEdge.m* to your project.
